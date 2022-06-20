@@ -4,6 +4,8 @@ orbim ölçme değerlendirme şeyi için bir modül.
 ## yükleme
 `pip install denemesonuc`
 
+tabi firefoxu yükleyip daha sonra da [geckodriver](https://github.com/mozilla/geckodriver/releases/latest)'ı indirmen lazım.
+
 ## basit kullanım
 ```python
 from denemesonuc import Denek, Deneme
